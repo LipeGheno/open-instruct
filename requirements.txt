@@ -48,3 +48,4 @@ beaker-py
 litellm
 matplotlib
 ray
+aiohttp>=3.12.14 # not directly required, pinned by Snyk to avoid a vulnerability
