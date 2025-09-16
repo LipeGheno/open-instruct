@@ -1,4 +1,6 @@
 # Training Open Instruction-Following Language Models
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLipeGheno%2Fopen-instruct.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FLipeGheno%2Fopen-instruct?ref=badge_shield)
+
 
 This repo serves as an open effort on instruction-tuning popular pretrained language models on publicly available datasets. We release this repo and will keep updating it with:
 
@@ -201,6 +203,9 @@ The license we use for V1 models released (along with the base model licenses) c
 
 V2 models are licensed under the [low-risk AI2 ImpACT license](https://allenai.org/licenses/impact-lr). See [here](https://allenai.org/impact-license) for more details.
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLipeGheno%2Fopen-instruct.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FLipeGheno%2Fopen-instruct?ref=badge_large)
 
 ## Acknowledgements
 
