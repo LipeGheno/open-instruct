@@ -1,5 +1,5 @@
 # TODO When updating flash-attn or torch in the future, make sure to update the version in the Dockerfile 
-torch==2.4.0
+torch==2.8.0
 scipy
 packaging
 sentencepiece
